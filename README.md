@@ -2,9 +2,10 @@
 Docs and more about each of the clouds.
 
 # Contacts
-| Name | Role | Email | IRC Handle |
-| --- | --- | --- | --- |
-| Dale Bracey |  | dale@rackspace.com | irtermite |
+| Name | Role | Email | IRC Handle | Twitter |
+| --- | --- | --- | --- | --- |
+| Dale Bracey | Technical Account Management | dale@rackspace.com | irtermite | @irtermite |
+| Kevin Carter | Dev & Engineering | kevin.carter@rackspace.com | cloudnull | @cloudnull |
 
 # OSIC User Tools
 Join **#osic-clouds** on Freenode IRC to get access to your Community Managers and other OSIC Community Members to help each other with your projects and cluster usage troubleshooting.
