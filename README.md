@@ -26,7 +26,7 @@ Before emailing and reaching out, make sure to see "Getting Started" first.
 | --- | --- | --- | --- | --- |
 | Dale Bracey | Ops & Account Management | dale@rackspace.com | irtermite | [@irtermite](https://twitter.com/irtermite) |
 | Kevin Carter | Dev, Ops & Engineering | kevin.carter@rackspace.com | cloudnull | [@cloudnull](https://twitter.com/cloudnull) |
-| Melvin Hillsman | Ops & Engineering | melvin.hillsman@RACKSPACE.COM | mrhillsman | [@mrhillsman](https://twitter.com/mrhillsman) |
+| Melvin Hillsman | Ops & Engineering | melvin.hillsman@rackspace.com | mrhillsman | [@mrhillsman](https://twitter.com/mrhillsman) |
  
 # OSIC Governance Board
 | Name | Org |
