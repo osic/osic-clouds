@@ -17,15 +17,16 @@ Developer Details
 
 # Communication
 Before emailing and reaching out, make sure to see "Getting Started" first.
- - Email: [mailto:osic-cluster@rackspace.com](osic-cluster@rackspace.com "OSIC Cluster and Governance Team")
- - Twitter: [https://twitter.com/OSIC_org](@OSIC_org)
+ - Email: osic-cluster@rackspace.com
+ - Twitter: [@OSIC_org](https://twitter.com/OSIC_org)
  - IRC Freenode: #osic-clouds
 
 # Contacts
 | Name | Role | Email | IRC Handle | Twitter |
 | --- | --- | --- | --- | --- |
-| Dale Bracey | Ops & Account Management | dale@rackspace.com | irtermite | @irtermite |
-| Kevin Carter | Dev, Ops & Engineering | kevin.carter@rackspace.com | cloudnull | @cloudnull |
+| Dale Bracey | Ops & Account Management | dale@rackspace.com | irtermite | [@irtermite](https://twitter.com/irtermite) |
+| Kevin Carter | Dev, Ops & Engineering | kevin.carter@rackspace.com | cloudnull | [@cloudnull](https://twitter.com/cloudnull) |
+| Melvin Hillsman | Ops & Engineering | melvin.hillsman@RACKSPACE.COM | mrhillsman | [@mrhillsman](https://twitter.com/mrhillsman) |
  
 # OSIC Governance Board
 | Name | Org |
