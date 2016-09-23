@@ -1,42 +1,45 @@
 # OSIC Clouds Introduction
-Docs and more about each of the clouds.
+Welcome to the OSIC Cluster documentation repo. The purpose of this repo is to provide support and information for users of the OSIC Cluster Clouds.
+
+> **This repo is not live just yet**
+
+Through the world’s largest OpenStack developer cloud established by the OpenStack Innovation Center (OSIC), the community can now develop and test code at scale beyond what has been possible before. In addition, this developer cloud serves as a blueprint for organizations to deploy OpenStack within their own environments.
+If you are working on improving the manageability, reliability, availability, security, stability or operability of OpenStack at scale, we want to give you access to this environment—comprised of 2,000 nodes of the latest hardware—for your development and testing.
 
 Check out the [https://github.com/osic/osic-clouds/wiki](Wiki) for more details and helpful tips on how to use these clusters.
 
+# Submitting and Tracking Requests
+File an [issue](https://github.com/osic/osic-clouds-requests/issues) in the [osic-clouds-requests repo](https://github.com/osic/osic-clouds-requests) and fill out the template. The Governance Board will review, vote and respond. Once you have access, come back here to the osic-clouds repo for tools tips and more.
+> Why did we make a separate repo for requests? The github template function only allows for one template per repo. Plus, it keeps all requests separate from any work issues that may come up here.
 
-
-Installation Guides
-
-Usage
-
-Getting Help
-
-Testing
-
-Developer Details
+Please complete and submit the form to request access today. All submissions will be reviewed on a monthly basis, and dispositioned using the criteria below. Availability will depend on current utilization rates.
+ 
+ - Project directly benefits OpenStack upstream, with an emphasis on enterprise readiness
+ - Project solves an issue, problem or gap or benefits the community as a whole
+ - Project utilizes a minimum of one (1) server rack, or 500 cores
+ - Applicant commits to publicize test results
 
 # Communication
-Before emailing and reaching out, make sure to see "Getting Started" first.
- - Email: osic-cluster@rackspace.com
- - Twitter: [@OSIC_org](https://twitter.com/OSIC_org)
- - IRC Freenode: #osic-clouds
+ - **Email**  osic-cluster@rackspace.com
+ - **Twitter** [@OSIC_org](https://twitter.com/OSIC_org)
+ - **IRC** Freenode `#osic-clouds`
 
-# Contacts
+# OSIC Cluster Governance Board
+| Name | Org |
+| --- | --- |
+| Chris Hoge| OpenStack.org |
+| Justin Shepherd | Rackspace |
+| Shilla Saebi | Community |
+| Das Kamhout | Intel |
+| Yih Leong Sun | Intel |
+
+# OSIC Cluster Operations
 | Name | Role | Email | IRC Handle | Twitter |
 | --- | --- | --- | --- | --- |
 | Dale Bracey | Ops & Account Management | dale@rackspace.com | irtermite | [@irtermite](https://twitter.com/irtermite) |
 | Kevin Carter | Dev, Ops & Engineering | kevin.carter@rackspace.com | cloudnull | [@cloudnull](https://twitter.com/cloudnull) |
 | Melvin Hillsman | Ops & Engineering | melvin.hillsman@rackspace.com | mrhillsman | [@mrhillsman](https://twitter.com/mrhillsman) |
  
-# OSIC Governance Board
-| Name | Org |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
 # OSIC User Tools
 Join **#osic-clouds** on Freenode IRC to get access to your Community Managers and other OSIC Community Members to help each other with your projects and cluster usage troubleshooting.
 
@@ -45,10 +48,16 @@ Find helpful tools and more at [https://github.com/osic](https://github.com/osic
 Don't have your own multi-node and cloud deployment method? You are welcome to use the same tool that we have developed to re-base the environments for handing off to the next user. This set of instructions and scripts is NOT a supported tool with any kind of SLA; it is merely provided as a good faith use tool. [OSIC Bare Metal Deployment Process](https://github.com/osic/osic-bare-metal-deployment-process)
 
 # Getting Started
-Before one may even use the OSIC clouds, they would need to apply for access and submit the reasoning for their access request. Start by following this link and filling out the form provided. See: [https://osic.org/clusters](https://osic.org/clusters)
 
-The OSIC Clusters submission form entries are automagically sent to the OSIC-Cluster Team's inbox early morning each Monday. These are then entered for review by the OSIC Governance Board. The OSIC Governance Board meets remotely every other Friday. So, an entry submitted on a Saturday has a chance to sit for almost two weeks before it is reviewed. 
+# Cluster Hardware
+Model: HP DL380 Gen9
+Processor: 2x 12-core Intel E5-2680 v3 @ 2.50GHz
+RAM: 256GB RAM
+Disk: 12x 600GB 15K SAS - RAID10
+NICS: 2x Intel X710 Dual Port 10 GbE
+
+All servers contain two Intel X710 10 GbE NICs. This is a relatively new NIC that has caused us a lot of problems during the setup of the OSIC environment. If you will be installing Ubuntu Server 14.04 on these servers, I highly recommend you use an i40e driver no older than 1.3.47.
 
 # Cluster Metrics and Utilization
 ## OSIC-DFW-Cloud-1
-[https://cloud1.osic.org/grafana/](Grafana Dash for OSIC-DFW-Cloud-1)
+[Grafana Dash for OSIC-DFW-Cloud-1](https://cloud1.osic.org/grafana/)
