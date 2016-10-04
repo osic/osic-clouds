@@ -17,7 +17,7 @@ If you are working on improving the manageability, reliability, availability, se
 
 > All servers contain two Intel X710 10 GbE NICs. This is a relatively new NIC that has caused us a lot of problems during the setup of the OSIC environment. If you will be installing Ubuntu Server 14.04 on these servers, we highly recommend you use an i40e driver no older than 1.3.47.
 
-Check out the [https://github.com/osic/osic-clouds/wiki](Wiki) for more details and helpful tips on how to use these clusters.
+Check out the [wiki](https://github.com/osic/osic-clouds/wiki) for more details and helpful tips on how to use these clusters.
 
 # Submitting and Tracking Requests
 File an [issue](https://github.com/osic/osic-clouds-requests/issues) in the [osic-clouds-requests repo](https://github.com/osic/osic-clouds-requests) and fill out the template. The Governance Board will review, vote and respond. Once you have access, come back here to the osic-clouds repo for tools tips and more.
