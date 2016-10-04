@@ -57,4 +57,4 @@ Please complete and submit the form to request access today. All submissions wil
 | Melvin Hillsman | Ops & Engineering | melvin.hillsman@rackspace.com | mrhillsman | [@mrhillsman](https://twitter.com/mrhillsman) |
 
 # Getting Started
-Head on over to the [https://github.com/osic/osic-clouds/wiki](OSIC Cluster Wiki) for more information.
+Head on over to the [OSIC Cluster Wiki](https://github.com/osic/osic-clouds/wiki) for more information.
