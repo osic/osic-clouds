@@ -19,8 +19,8 @@ If you are working on improving the manageability, reliability, availability, se
 
 Check out the [wiki](https://github.com/osic/osic-clouds/wiki) for more details and helpful tips on how to use these clusters.
 
-# Submitting and Tracking Requests
-File an [issue](https://github.com/osic/osic-clouds-requests/issues) in the [osic-clouds-requests repo](https://github.com/osic/osic-clouds-requests) and fill out the template. The Governance Board will review, vote and respond. Once you have access, come back here to the osic-clouds repo for tools tips and more.
+# Submitting and Tracking New Requests
+File an [issue](https://github.com/osic/osic-clouds-requests/issues) in the [osic-clouds-requests repo](https://github.com/osic/osic-clouds-requests) by clicking the ['New' button under Issues in the separate osic-clouds-requests repo](https://github.com/osic/osic-clouds-requests/issues/new) and fill out the template. The Governance Board will review, vote and respond. Once you have access, come back here to the osic-clouds repo for tools tips and more.
 
 > Why did we make a separate repo for requests? The github template function only allows for one template per repo. Plus, it keeps all requests separate from any work issues that may come up here.
 
@@ -33,6 +33,9 @@ Please complete and submit the form to request access today. All submissions wil
  - Applicant commits to publicize test results
 
  [Learn more about the OSIC developer cloud](https://osic.org/sites/osic.org/files/OSIC_Exposed_final_web.pdf)
+
+# Submitting and Tracking Issues as a Current User
+File and [issue](https://github.com/osic/osic-clouds/issues) here in this repo. This is where past and present users are to be most active. The other 'osic-clouds-requests' repo is solely for requesting access.
 
 # Communication
  - **Email**  osic-cluster@rackspace.com
