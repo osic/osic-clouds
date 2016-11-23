@@ -9,11 +9,11 @@ Through the world’s largest OpenStack developer cloud established by the OpenS
 If you are working on improving the manageability, reliability, availability, security, stability or operability of OpenStack at scale, we want to give you access to this environment—comprised of 2,000 nodes of the latest hardware—for your development and testing.
 
 ## Cluster Hardware
-> Model: HP DL380 Gen9  
-> Processor: 2x 12-core Intel E5-2680 v3 @ 2.50GHz  
-> RAM: 256GB RAM  
-> Disk: 12x 600GB 15K SAS - RAID10  
-> NICS: 2x Intel X710 Dual Port 10 GbE  
+> Model: HP DL380 Gen9
+> Processor: 2x 12-core Intel E5-2680 v3 @ 2.50GHz
+> RAM: 256GB RAM
+> Disk: 12x 600GB 15K SAS - RAID10
+> NICS: 2x Intel X710 Dual Port 10 GbE
 
 > All servers contain two Intel X710 10 GbE NICs. This is a relatively new NIC that has caused us a lot of problems during the setup of the OSIC environment. If you will be installing Ubuntu Server 14.04 on these servers, we highly recommend you use an i40e driver no older than 1.3.47.
 
@@ -25,7 +25,7 @@ File an [issue](https://github.com/osic/osic-clouds-requests/issues) in the [osi
 > Why did we make a separate repo for requests? The github template function only allows for one template per repo. Plus, it keeps all requests separate from any work issues that may come up here.
 
 Please complete and submit the form to request access today. All submissions will be reviewed on a monthly basis, and dispositioned using the criteria below. Availability will depend on current utilization rates.
- 
+
 ## Use-case Acceptance
  - Project directly benefits OpenStack upstream, with an emphasis on enterprise readiness
  - Project solves an issue, problem or gap or benefits the community as a whole
@@ -61,3 +61,5 @@ File and [issue](https://github.com/osic/osic-clouds/issues) here in this repo. 
 
 # Getting Started
 Head on over to the [OSIC Cluster Wiki](https://github.com/osic/osic-clouds/wiki) for more information.
+
+Please review [this information](nextgen/readme.md) on getting started with OSIC and Ironic Baremetal.
