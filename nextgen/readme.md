@@ -23,6 +23,7 @@ Capacity metrics are derived from our realtime metric collection system. More da
   - [Getting SSH Access](user-getting-ssh.md)
   - [Getting HTTP Access](user-getting-http.md)
   - [Getting Baremetal nodes](user-getting-baremetal.md)
+  - [Getting Isolated Internal Networks](user-isolating-network-traffic.md)
 
 ##### Administrative Information:
   - [Building Ironic Images](admin-building-images.md)
