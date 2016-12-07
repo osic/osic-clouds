@@ -2,8 +2,8 @@
 
 
 ### VM (Nova) compute capacity
-![compute capacity](https://cloud1.osic.org/grafana/render/dashboard-solo/db/openstack-all-compute-aggregates?var-compute_identifier=comp-&var-node_count=242&var-inter=%24__auto_interval&var-ort=1h&panelId=8&width=200)
-![compute capacity](https://cloud1.osic.org/grafana/render/dashboard-solo/db/openstack-all-compute-aggregates?var-compute_identifier=comp-&var-node_count=242&var-inter=%24__auto_interval&var-ort=1h&panelId=10&width=250)
+![compute capacity](https://cloud1.osic.org/grafana/render/dashboard-solo/db/openstack-all-compute-aggregates?var-compute_identifier=comp-&var-node_count=242&var-inter=%24__auto_interval&var-ort=1h&panelId=8&width=225)
+![compute capacity](https://cloud1.osic.org/grafana/render/dashboard-solo/db/openstack-all-compute-aggregates?var-compute_identifier=comp-&var-node_count=242&var-inter=%24__auto_interval&var-ort=1h&panelId=10&width=225)
 ![compute capacity](https://cloud1.osic.org/grafana/render/dashboard-solo/db/openstack-all-compute-aggregates?var-compute_identifier=comp-&var-node_count=242&var-inter=%24__auto_interval&var-ort=1h&panelId=11&width=350)
 
 
